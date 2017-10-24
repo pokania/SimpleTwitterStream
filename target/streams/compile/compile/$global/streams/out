@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/pokania/TweetStreamExample/src/main/scala/TwitterStream.scala:18:35: object creation impossible, since method onDeletionNotice in trait StatusListener of type (x$1: twitter4j.StatusDeletionNotice)Unit is not defined[0m
+[0m[[0m[31merror[0m] [0m[0m			def simpleStatusListener = new StatusListener() {[0m
+[0m[[0m[31merror[0m] [0m[0m			                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
